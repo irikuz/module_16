@@ -1,5 +1,3 @@
-
-from typing import Annotated
 from fastapi import FastAPI, Body, HTTPException, Path
 from pydantic import BaseModel
 from typing import List
